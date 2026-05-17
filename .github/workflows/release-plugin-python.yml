@@ -60,3 +60,4 @@ jobs:
             plugin/python/release/python-plugin.tar.gz
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ 
